@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Good to have
+
+Make dynamic filter dropdown
+When no expenses console shows error
+When no expenses clear the gaph to empty bars
+
 ## Available Scripts
 
 In the project directory, you can run:
